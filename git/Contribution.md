@@ -1,4 +1,4 @@
-## Contribute List
+## Contribution List
 
 * [niiiiiil](https://github.com/niiiiiil)
 
