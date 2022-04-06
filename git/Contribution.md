@@ -6,3 +6,4 @@
 * [Konnyaku](https://github.com/Konn-yaku)
 * [NEUBruce](https://github.com/NEUBruce)
 * [NBDatsuya2637](https://github.com/NBDatsuya2637)
+* [Herbert118](https://github.com/Herbert118)
